@@ -8,7 +8,7 @@ lastmodifieremail = ""
 pre = "<i class='fa fa-edit' ></i> "
 tags = []
 title = "Bar Menu"
-weight = 2
+weight = ""
 
 +++
 Yes
