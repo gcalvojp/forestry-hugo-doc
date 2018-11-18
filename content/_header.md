@@ -1,1 +1,4 @@
-[![LOGO](/images/logo.png)](/ "Logo Placeholder")
++++
+
++++
+[![LOGO](/images/logo.png)](/ "Logo Placeholder!")
