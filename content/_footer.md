@@ -4,4 +4,4 @@ description = ""
 title = "Footer"
 
 +++
-FOOTER
+FOOTER <i class='fa fa-edit' ></i>
