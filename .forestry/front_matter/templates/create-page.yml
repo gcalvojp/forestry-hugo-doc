@@ -53,3 +53,6 @@ fields:
   type: text
   hidden: false
   default: ''
+- type: number
+  name: number
+  label: number
