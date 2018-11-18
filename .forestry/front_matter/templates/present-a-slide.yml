@@ -18,6 +18,3 @@ fields:
   type: datetime
   hidden: false
   default: ''
-pages:
-- content/create-page/foo/bar.md
-- content/create-page/bar/foo.md
