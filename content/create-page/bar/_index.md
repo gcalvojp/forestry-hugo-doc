@@ -1,15 +1,14 @@
 +++
+title = "Bar"
+description = "Bar ipsum"
 creatordisplayname = ""
 creatoremail = ""
 date = "2018-11-18T15:16:09+00:00"
-description = "Bar ipsum"
 lastmodifierdisplayname = ""
 lastmodifieremail = ""
-pre = ""
+pre = "<i class='fa fa-edit' ></i> "
+weight = 1
 tags = []
-title = "_index"
-weight = ""
-
 +++
 Yes
 
