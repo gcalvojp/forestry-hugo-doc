@@ -1,7 +1,7 @@
 ---
-label: Create Page
-hide_body: 
-is_partial: 
+label: Index Page
+hide_body: false
+is_partial: false
 fields:
 - name: title
   label: Title
@@ -29,22 +29,22 @@ fields:
   hidden: false
   default: ''
 - name: creatordisplayname
-  label: Creatordisplayname
+  label: Creator's Display Name
   type: text
   hidden: false
   default: ''
 - name: creatoremail
-  label: Creatoremail
+  label: Creator's E-mail
   type: text
   hidden: false
   default: ''
 - name: lastmodifierdisplayname
-  label: Lastmodifierdisplayname
+  label: Last Modifier's Display Name
   type: text
   hidden: false
   default: ''
 - name: lastmodifieremail
-  label: Lastmodifieremail
+  label: Last Modifier's E-mail
   type: text
   hidden: false
   default: ''
