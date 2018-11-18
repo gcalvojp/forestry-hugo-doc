@@ -1,0 +1,55 @@
+---
+label: Create Page
+hide_body: 
+is_partial: 
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: description
+  label: Description
+  type: text
+  hidden: false
+  default: ''
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: ''
+- name: weight
+  label: Weight
+  type: text
+  hidden: false
+  default: ''
+- name: tags
+  label: Tags
+  type: tag_list
+  hidden: false
+  default: ''
+- name: creatordisplayname
+  label: Creatordisplayname
+  type: text
+  hidden: false
+  default: ''
+- name: creatoremail
+  label: Creatoremail
+  type: text
+  hidden: false
+  default: ''
+- name: lastmodifierdisplayname
+  label: Lastmodifierdisplayname
+  type: text
+  hidden: false
+  default: ''
+- name: lastmodifieremail
+  label: Lastmodifieremail
+  type: text
+  hidden: false
+  default: ''
+- name: pre
+  label: Pre
+  type: text
+  hidden: false
+  default: ''
