@@ -1,9 +1,9 @@
 +++
-title = "Content Organisation"
 description = ""
+title = "Content Organization"
 weight = 20
-+++
 
++++
 With **Hugo**, pages are the core of your site. Organize your site like any other Hugo project. **Magic occurs with the nested sections implemention done in v0.22 of hugo (congrats @bep)**.
 
 With docdock, **Each content page composes the menu**, they shape the structure of your website.
@@ -132,7 +132,4 @@ Content organization **is** your `content` folder structure.
 
 ### Homepage
 
-Find out how to [customize homepage]({{%relref "homepage.md"%}}) 
-
-
-
+Find out how to [customize homepage]({{%relref "homepage.md"%}})
