@@ -19,5 +19,6 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/footer-md.md
 - content/create-page/foo/bar.md
 - content/create-page/bar/foo.md
